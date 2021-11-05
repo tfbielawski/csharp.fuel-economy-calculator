@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fuel Economy Calculator", "Fuel Economy Calculator.csproj", "{383C5E0E-7080-48ED-A141-C114E0F46BB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{383C5E0E-7080-48ED-A141-C114E0F46BB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{383C5E0E-7080-48ED-A141-C114E0F46BB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{383C5E0E-7080-48ED-A141-C114E0F46BB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{383C5E0E-7080-48ED-A141-C114E0F46BB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0E8F6C2-9D41-4E84-8376-7DC8D2A32351}
+	EndGlobalSection
+EndGlobal
